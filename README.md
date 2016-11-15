@@ -1,7 +1,7 @@
 # start_tab
 An HTML/CSS new tab template, for making an easily customizable new tab page.
 
-Better than just a home page, this template allows you to pull all your most-used links into one place and, with help from an extension, plop them into your new tab page.
+Better than just a home page, this template allows you to pull all your most-used links into one place and, with help from an extension, plop them into your new tab page.  Everything you'll need to get started is in the start_tab_v1.0.zip file.
 
 Once you're done tweaking the template to your heart's desire, some suggested new tab customization extensions for common browsers can be found below:  
 
